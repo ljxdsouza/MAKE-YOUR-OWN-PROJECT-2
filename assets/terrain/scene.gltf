@@ -1,0 +1,461 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 60060,
+      "max": [
+        17.646909713745117,
+        25.608842849731445,
+        2.963792085647583
+      ],
+      "min": [
+        -17.950775146484375,
+        -24.27635955810547,
+        0.8100491762161255
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 720720,
+      "componentType": 5126,
+      "count": 60060,
+      "max": [
+        0.9999637603759766,
+        0.9997795820236206,
+        0.9999874830245972
+      ],
+      "min": [
+        -0.9999637007713318,
+        -0.9997795820236206,
+        -0.9999874830245972
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 60060,
+      "max": [
+        0.8627451062202454,
+        0.8627451062202454,
+        0.8627451062202454,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0,
+        0.0,
+        0.9960784316062927
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 60060,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1441440,
+      "componentType": 5126,
+      "count": 8089,
+      "max": [
+        0.9888542890548706,
+        0.9964281320571899,
+        -0.05878813937306404
+      ],
+      "min": [
+        -0.9888648390769958,
+        -0.996428370475769,
+        -0.2609008550643921
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1538508,
+      "componentType": 5126,
+      "count": 8089,
+      "max": [
+        0.9829914569854736,
+        0.9989296793937683,
+        0.999992847442627
+      ],
+      "min": [
+        -0.8035883903503418,
+        -0.9997866749763489,
+        -0.6457655429840088
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 960960,
+      "componentType": 5126,
+      "count": 8089,
+      "max": [
+        1.0,
+        0.978558361530304,
+        0.817264974117279,
+        1.0
+      ],
+      "min": [
+        0.18233223259449005,
+        -0.45570528507232666,
+        -0.9790743589401245,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 8089,
+      "max": [
+        1.0,
+        0.9999999403953552
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 64712,
+      "componentType": 5126,
+      "count": 8089,
+      "max": [
+        1.0,
+        0.9999999403953552
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 240240,
+      "componentType": 5125,
+      "count": 47541,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "TheAlex (https://sketchfab.com/TheAlex)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/ocean-waves-tileable-asset-4a9b088daf6b456ea49b15493517e447",
+      "title": "Ocean Waves - Tileable Asset"
+    },
+    "generator": "Sketchfab-15.18.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 430404,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 129424,
+      "byteOffset": 430404,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1635576,
+      "byteOffset": 559828,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1090384,
+      "byteOffset": 2195404,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 3285788,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_specular"
+  ],
+  "images": [
+    {
+      "uri": "textures/ocean_bake_baseColor.png"
+    },
+    {
+      "uri": "textures/ocean_bake_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/ocean_bake_emissive.png"
+    },
+    {
+      "uri": "textures/ocean_bake_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0.8,
+        0.8,
+        0.8
+      ],
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularColorFactor": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "specularFactor": 0.15
+        }
+      },
+      "name": "droplet",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.732532985489547,
+          0.732532985489547,
+          0.732532985489547,
+          1.0
+        ],
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0.7,
+        0.7,
+        0.7
+      ],
+      "emissiveTexture": {
+        "index": 2
+      },
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularColorFactor": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "specularFactor": 0.1
+        }
+      },
+      "name": "ocean_bake",
+      "normalTexture": {
+        "index": 3
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "spray_droplet_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 2,
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "ocean_reduced_ocean_bake_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TANGENT": 6,
+            "TEXCOORD_0": 7,
+            "TEXCOORD_1": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "25ddcfe1e90e4aa3bd2034b019d396b1.fbx"
+    },
+    {
+      "children": [
+        3,
+        5
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "spray"
+    },
+    {
+      "mesh": 0,
+      "name": "spray_droplet_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        2573.303955078125,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -0.00041924442864301495,
+        -2573.303955078091,
+        0.0,
+        0.0,
+        2573.303955078091,
+        -0.00041924442864301495,
+        0.0,
+        0.0,
+        405.5233154296875,
+        0.0,
+        1.0
+      ],
+      "name": "ocean_reduced"
+    },
+    {
+      "mesh": 1,
+      "name": "ocean_reduced_ocean_bake_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}

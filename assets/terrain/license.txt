@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ocean Waves - Tileable Asset
+* source:	https://sketchfab.com/3d-models/ocean-waves-tileable-asset-4a9b088daf6b456ea49b15493517e447
+* author:	TheAlex (https://sketchfab.com/TheAlex)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ocean Waves - Tileable Asset" (https://sketchfab.com/3d-models/ocean-waves-tileable-asset-4a9b088daf6b456ea49b15493517e447) by TheAlex (https://sketchfab.com/TheAlex) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
